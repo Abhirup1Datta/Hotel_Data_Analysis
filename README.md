@@ -1,11 +1,10 @@
 # Hotel_Data_Analysis
-In this project the data generated from the hotels from a period of 2018 to 2020 has been analyzed to give the owner insight on how his business have performed over these 3 years.
+The project is based on data gathered from two hotels generated over a period of 3 years.The aim of the project is to build a database using this customer booking data for analyzing the business and finally building a visual dashboard to present to the stakeholders.
 
-### Methodology ###
+### Methodology  ###
 
-The data from the 3 years has been combined and queried using SQL server to answer some important business problems.
+Used **MS SQL** to import the data from multiple tables combined into a single one and queried to answer some important business problems. The data was then loaded into **Power BI** via Power Query to create an interactive report contianing variety of visualizations that provide an in-depth revenue and customer summary to the stakeholders.
 
-An interactive dashboard was created using Power BI for the owner to visualize the performance of the business.
 
 ### Screenshot ###
 ![image](https://user-images.githubusercontent.com/103647085/218401382-a465ae3e-5b3a-4f9a-9d3d-d3a352ce1ec4.png)
