@@ -8,4 +8,4 @@ The data from the 3 years has been combined and queried using SQL server to answ
 An interactive dashboard was created using Power BI for the owner to visualize the performance of the business.
 
 ### Screenshot ###
-![image](https://user-images.githubusercontent.com/103647085/218398470-2fb0cff6-837b-4a1b-89e2-3c93f166eaa9.png)
+![image](https://user-images.githubusercontent.com/103647085/218401382-a465ae3e-5b3a-4f9a-9d3d-d3a352ce1ec4.png)
