@@ -1,4 +1,4 @@
-# Hotel_Data_Analysis
+# Hotel_Booking_Data_Analysis
 The project is based on customer data gathered from two hotels over a period of 3 years.The aim of the project is to build a database using this customer booking data for analyzing business problems and finally building a visual dashboard to present to the stakeholders.
 
 ### Methodology  ###
