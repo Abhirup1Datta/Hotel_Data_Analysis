@@ -3,8 +3,8 @@ The project is based on customer data gathered from two hotels over a period of 
 
 ### Methodology  ###
 
-Used **MS SQL** to import the data from multiple tables combined into a single one and queried to answer some important business problems. The data was then loaded into **Power BI** via Power Query to create an interactive report contianing variety of visualizations that provide an in-depth revenue and customer summary to the stakeholders.
+Used **MS SQL** to import the data from multiple tables combined into a single one and strategic queries were conducted to answer some important business problems. The data was then loaded into **Power BI** via Power Query to create an interactive report contianing variety of visualizations that provide an in-depth revenue and customer summary to the stakeholders.
 
 
 ### Screenshot ###
-![image](https://user-images.githubusercontent.com/103647085/218401382-a465ae3e-5b3a-4f9a-9d3d-d3a352ce1ec4.png)
+![image](https://user-images.githubusercontent.com/103647085/231133212-6c009662-52f6-4956-afb1-fe5818e5db99.png)
