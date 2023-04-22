@@ -7,5 +7,5 @@ Used **MS SQL** to import the data from multiple tables combined into a single o
 
 
 ### Screenshot ###
-![image](https://user-images.githubusercontent.com/103647085/233795882-e85e8c88-d35e-49a2-91d7-ccf0f8f656d0.png)
+![image](https://user-images.githubusercontent.com/103647085/233796004-b1ac3803-289e-4a67-9fa7-93669c14efd9.png)
 
