@@ -7,5 +7,6 @@ Used **MS SQL** to import the data from multiple tables combined into a single o
 
 
 ### Screenshot ###
-![image](https://user-images.githubusercontent.com/103647085/233796004-b1ac3803-289e-4a67-9fa7-93669c14efd9.png)
+![image](https://github.com/Abhirup1Datta/Hotel_Data_Analysis/assets/103647085/ac8eba3c-7a7a-4ab2-bd6e-0d38a3ed0d2d)
+
 
